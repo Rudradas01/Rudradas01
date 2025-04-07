@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudradas01&label=Profile%20views&color=0e75b6&style=flat" alt="rudradas01" /> </p>
 
-- 🔭 I’m currently working on **Hospital Management System (Java, JDBC**
+- 🔭 I’m currently working on **Hospital Management System Project (Java, JDBC)
 
 - 🌱 I’m currently learning **java, JDBC , Spring Bot**
 
