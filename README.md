@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Hospital Management System Project (Java, JDBC)
 
-- 🌱 I’m currently learning **java, JDBC , Spring Bot**
+- 🌱 I’m currently learning **java, JDBC , Spring Bot**,React ,Angular
 
 - 📫 How to reach me **work.rudradas@gmail.com**
 
