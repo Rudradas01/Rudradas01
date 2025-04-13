@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning java, JDBC , Spring Bot ,React ,Angular ,express js , Node js . 
 
-- 📫 How to reach me **work.rudradas@gmail.com**
+- 📫 How to reach me -- work.rudradas@gmail.com
 
 - ⚡ Fun fact **I talk to my code more than I talk to people sometimes. Debugging is just a conversation, right?**
 
